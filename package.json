@@ -18,8 +18,7 @@
     "node": "^21.2.0",
     "nodemon": "^3.0.2",
     "sqlite": "^5.1.1",
-    "sqlite3": "^5.1.6",
-    "@npmcli/fs": "latest"
+    "sqlite3": "^5.1.6"
   },
   "devDependencies": {
     "eslint-plugin-jsx-a11y": "^6.8.0"
